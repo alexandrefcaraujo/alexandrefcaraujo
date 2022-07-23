@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Alexandre Araújo</h1>
-<h3 align="center">Estudante de Engenharia de dados no Brasil</h3>
+<h3 align="center">Sou um programador autodidata com interesse em engenharia de dados.</h3>
 
 - 🌱 Atualmente estou aprendendo **Python e SQL**
 
