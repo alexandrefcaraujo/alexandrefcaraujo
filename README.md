@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou Alexandre Araújo</h1>
+<h1 align="center">Olá, Eu sou Alexandre Araújo. 👋</h1>
 <h3 align="center">Um Engenheiro de Dados autodidata em formação do Brasil.</h3>
 
 - 🌱 Atualmente estou aprendendo **Python, SQL e Azure Fundamentos**
